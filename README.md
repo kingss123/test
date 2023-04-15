@@ -1,2 +1,2 @@
 # test
-main 1
+bb 1
